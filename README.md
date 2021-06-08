@@ -1,5 +1,4 @@
 # Accounting Analysis on Disney Company
-
 ## Methodology
 ### Financial Ratio Analysis
 1. Liquidity Ratios
@@ -11,7 +10,6 @@
 1. Parks
 2. Experiences and Products
 3. DTC & Internetional
-
 ## Software Used
 - Tableau
 - Excel
