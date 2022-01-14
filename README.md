@@ -1,4 +1,5 @@
 # Accounting Analysis on Disney Company
+Dashboard avaliable at (https://public.tableau.com/app/profile/yuwen.luo1706/viz/DisneyDataAnalysis/Conclusion)
 ## Methodology
 ### Financial Ratio Analysis
 1. Liquidity Ratios
